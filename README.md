@@ -1,2 +1,2 @@
-# league-of-legends-skin-changer
-lol skins mod
+3. Launch the game normally
+4. Use the hotkey overlay
